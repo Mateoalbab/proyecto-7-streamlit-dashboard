@@ -19,3 +19,6 @@ La aplicación web permite al usuario:
 * Streamlit
 * Plotly Express
 * Render (para el despliegue)
+
+## Link del proyecto en Render
+https://car-sales-dashboard-peau.onrender.com
